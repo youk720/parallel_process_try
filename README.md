@@ -5,3 +5,8 @@
   - ライブラリ関係書き方→　http://programming-study.com/technology/python-import#as
   - ライブラリリファレンス→ https://docs.python.jp/3/library/index.html
   - https://docs.python.jp/3/library/concurrency.html
+
+## sampleは`python3`で動く
+
+## 起動コード
+```python3 `ファイル名````
