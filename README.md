@@ -9,7 +9,4 @@
 ### sampleは`python3`で動く
 
 ### 起動コード
-```python3 ファイル名
-<div class="ts">
-<p>上野</p>
-```
+```python3 ファイル名```
